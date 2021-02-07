@@ -1,7 +1,7 @@
 # UoB-Orcid-2019
 
 ## Title
-Univeristy of Bristol Orcid data 2019
+Univeristy of Bristol Orcid and PURE data 2019
 
 ## Overview
 
