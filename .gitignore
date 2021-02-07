@@ -1,0 +1,4 @@
+*.pyc
+output
+test.py
+.ipynb_checkpoints/
